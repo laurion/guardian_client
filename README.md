@@ -22,7 +22,7 @@ We need to get a system onto users mobile phones that be extended in the future.
 
 We are developing a lightweight tracking and alert/contact system that can integrate with verified test results. This system must do everything possible to preserve a high level of privacy and be simple enough that everyone and anyone can use it - with their consent and ensuring security by using private data models which limits transmitting or storing private data on the Guardian servers.
 
-We work with both healthcare, privacy/security and bahavior experts to come up with the best solution.
+We work with healthcare, privacy/security and behavior experts to come up with the best solution.
 
 Guardian will be especially useful as we enter the "long tail" of this pandemic. People will want to get out of their houses and start moving around again. Testing will be increasing. Guardian will help eliminate this pandemic. 
 
